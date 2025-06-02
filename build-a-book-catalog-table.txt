@@ -1,0 +1,76 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Book Catalog</title>
+</head>
+
+<body>
+</body>
+<table>
+<thead>
+<tr>
+<th>Title</th>
+<th>Author</th>
+<th>Genre</th>
+<th>Publication Year</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Frankenstein</td>
+<td>Mary Shelley</td>
+<td> Horror</td>
+<td>1818</td>
+</tr>
+<tr>
+<td>1984</td>
+<td>George Orwell</td>
+<td>Dystopian</td>
+<td>1949</td>
+</tr>
+<tr>
+<td>To Kill a Mockingbird</td>
+<td>Harper Lee</td>
+<td>Classic</td>
+<td>1960</td>
+</tr>
+<tr>
+<td>The Hate U Give</td>
+<td>Angie Thomas</td>
+<td>Young Adult</td>
+<td>2017</td>
+</tr>
+<tr>
+<td>The Handmaid's Tale</td>
+<td>Margaret Atwood</td>
+<td>Dystopian</td>
+<td>1986</td>
+</tr>
+<tr>
+<td>The Nightingale</td>
+<td>Kristin Hannah</td>
+<td>Hiatorical Fiction</td>
+<td>2015</td>
+</tr>
+<tr>
+<td>The Great Gatsby</td>
+<td>F. Scott Fitzgerald</td>
+<td>Classic</td>
+<td>1925</td>
+</tr>
+</tbody>
+<tfoot>
+<tr>
+<td colspan="4">Total Books: 7</td>
+</tr>
+</tfoot>
+</table>
+</html>
+
+** end of index.html **
+
